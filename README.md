@@ -1,1 +1,2 @@
-Blog for Vo Tuan Huy daily
+Blog of Vo Tuan Huy Daily
+Dev Web
